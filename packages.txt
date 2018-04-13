@@ -1,0 +1,11 @@
+numpy
+scipy
+
+https://github.com/jameslyons/python_speech_features
+python_speech_features
+
+http://python-sounddevice.readthedocs.io/en/0.3.9/
+setuptools
+cffi
+libportaudio2
+sounddevice
